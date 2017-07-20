@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/device_type_background"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/rgb_item_background"
+    android:layout_width="wrap_content"
+    android:layout_height="60dp">
+
+    <TextView
+        android:id="@+id/background_layout"
+        android:background="@drawable/discovered_device_item_background"
+        android:padding="30dp"
+        android:layout_centerInParent="true"
+        android:text="                    "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/device_name"
+        android:textColor="@color/textColor"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:text="Lamp 3"
+        android:maxLength="20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

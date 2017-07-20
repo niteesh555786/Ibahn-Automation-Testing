@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

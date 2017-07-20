@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/background_layout"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/associated_device_background"
+    android:layout_width="wrap_content"
+    android:layout_height="45dp">
+
+    <TextView
+        android:layout_margin="30dp"
+        android:layout_centerInParent="true"
+        android:text="                    "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/group_name"
+        android:textColor="@color/textColor"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:text="All Groups"
+        android:maxLength="20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

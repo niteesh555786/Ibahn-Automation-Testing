@@ -1,0 +1,58 @@
+<menu xmlns:android="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res/android">
+    <item
+        app:visible="false"
+        app:id="@+id/cancel_wiggle"
+        app:title="Cancel"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="always">
+    </item>
+    <item
+        app:id="@+id/recover_system_password"
+        app:title="Recover System Password"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        app:id="@+id/update_db_on_cloud"
+        app:title="Update DB on cloud"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        app:id="@+id/toggle_fetch_state"
+        app:title="Disable Fetch State"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        app:id="@+id/tutorial"
+        app:title="Tutorial"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        app:id="@+id/about_us"
+        app:title="About Us"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        app:id="@+id/terms_and_conditions"
+        app:title="Terms and Conditions"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        app:id="@+id/privacy_policy"
+        app:title="Privacy Policy"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+    <item
+        app:id="@+id/reset_whole_network"
+        app:title="Reset Whole Network"
+        app:icon="@drawable/ic_close"
+        android:showAsAction="collapseActionView">
+    </item>
+</menu>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="bizbrolly.svarochiapp.activities.ScenesActivity">
+
+
+
+    <ScrollView
+        android:background="#4c000000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp">
+
+                <ImageView
+                    android:id="@+id/close_scenes_button"
+                    android:src="@drawable/close_image"
+                    android:layout_marginEnd="15dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/cool_daylight"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Cool Daylight"
+                    android:background="@drawable/scene_cool_daylight"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="10dp" />
+
+                <TextView
+                    android:id="@+id/moonlight"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Moonlight"
+                    android:background="@drawable/scene_moonlight"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/sunrise"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Sunrise and sunset"
+                    android:background="@drawable/scene_sunrise"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="10dp" />
+
+                <TextView
+                    android:id="@+id/warm_white"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Warm White"
+                    android:background="@drawable/scene_warm_white"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/pink_tinge"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Pink Tinge Relax"
+                    android:background="@drawable/scene_pink"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="10dp" />
+
+                <TextView
+                    android:id="@+id/blue_energise"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Blue Tinge Energise"
+                    android:background="@drawable/scene_blue_energise"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/blue_study"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Blue Tinge Study"
+                    android:background="@drawable/scene_cool_daylight"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="10dp" />
+
+                <CheckBox
+                    android:button="@null"
+                    android:id="@+id/party"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="Party"
+                    android:background="@drawable/scene_party"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

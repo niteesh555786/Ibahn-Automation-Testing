@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/bizbrolly/AndroidProjects/Svarochi/SvarochiApp/mylibrary/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/bizbrolly/.android/build-cache/0cb5d53f3be33f9fa5f34547134c7488013ec02b/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
